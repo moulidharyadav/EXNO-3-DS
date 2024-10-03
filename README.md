@@ -70,7 +70,7 @@ df.shape
 ```
 df
 ```
-![image](https://github.com/user-attachments/assets/410e9f6d-3800-434a-84bd-efd07a06eb10)
+![image](https://github.com/user-attachments/assets/f62c2a51-ccd7-4888-bd01-1e29443f765f)
 
 ```
 #ordinal encoder
