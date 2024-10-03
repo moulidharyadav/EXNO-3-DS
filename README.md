@@ -50,7 +50,7 @@ df.head()
 ```
 df.tail()
 ```
-![image](https://github.com/user-attachments/assets/d738d222-205f-4c42-b097-907ad1dd61a2)
+![exp3](https://github.com/user-attachments/assets/69993b8c-66db-4689-8250-a37230bbcbae)
 
 ```
 df.describe()
