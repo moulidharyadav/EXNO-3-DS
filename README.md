@@ -65,7 +65,7 @@ df.info()
 ```
 df.shape
 ```
-![image](https://github.com/user-attachments/assets/74d82d13-e1ef-4ed8-86e5-d4d855ab928f)
+![3](https://github.com/user-attachments/assets/576d78f3-6747-422a-9a3f-31b79b218db7)
 
 ```
 df
